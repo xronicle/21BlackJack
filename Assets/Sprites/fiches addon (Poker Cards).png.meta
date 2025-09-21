@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: fe51e1e0e22250342992aa3f3de9a58d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -906457867882913583
+    second: fiches addon (Poker Cards)_0
+  - first:
+      213: -7823712299649716401
+    second: fiches addon (Poker Cards)_1
+  - first:
+      213: 8555208033578832511
+    second: fiches addon (Poker Cards)_2
+  - first:
+      213: 7277168459558974082
+    second: fiches addon (Poker Cards)_3
+  - first:
+      213: 4596774667947706853
+    second: fiches addon (Poker Cards)_4
+  - first:
+      213: 5772689694851092441
+    second: fiches addon (Poker Cards)_5
+  - first:
+      213: -1671435467173085564
+    second: fiches addon (Poker Cards)_6
+  - first:
+      213: -5037498086615655884
+    second: fiches addon (Poker Cards)_7
+  - first:
+      213: -4507614650960087378
+    second: fiches addon (Poker Cards)_8
+  - first:
+      213: -7805703256054636000
+    second: fiches addon (Poker Cards)_9
+  - first:
+      213: -5598695120236568619
+    second: fiches addon (Poker Cards)_10
+  - first:
+      213: -6870951521641228493
+    second: fiches addon (Poker Cards)_11
+  - first:
+      213: 3461618989860366064
+    second: fiches addon (Poker Cards)_12
+  - first:
+      213: -360105347556680436
+    second: fiches addon (Poker Cards)_13
+  - first:
+      213: -4043053103927639305
+    second: fiches addon (Poker Cards)_14
+  - first:
+      213: 1150412503362870943
+    second: fiches addon (Poker Cards)_15
+  - first:
+      213: -5183862657192048485
+    second: fiches addon (Poker Cards)_16
+  - first:
+      213: 6390087237621291895
+    second: fiches addon (Poker Cards)_17
+  - first:
+      213: -1933050815662335405
+    second: fiches addon (Poker Cards)_18
+  - first:
+      213: 8140282267102490668
+    second: fiches addon (Poker Cards)_19
+  - first:
+      213: 2547235565859583603
+    second: fiches addon (Poker Cards)_20
+  - first:
+      213: -3743930325873650934
+    second: fiches addon (Poker Cards)_21
+  - first:
+      213: -5948122416792610016
+    second: fiches addon (Poker Cards)_22
+  - first:
+      213: -3208404897943063581
+    second: fiches addon (Poker Cards)_23
+  - first:
+      213: -6285891871112726758
+    second: fiches addon (Poker Cards)_24
+  - first:
+      213: 3178025492957306006
+    second: fiches addon (Poker Cards)_25
+  - first:
+      213: 1140323635283437475
+    second: fiches addon (Poker Cards)_26
+  - first:
+      213: -2847270906669885574
+    second: fiches addon (Poker Cards)_27
+  - first:
+      213: 6695670383682200258
+    second: fiches addon (Poker Cards)_28
+  - first:
+      213: 4760771369468596279
+    second: fiches addon (Poker Cards)_29
+  - first:
+      213: 8972878187260859641
+    second: fiches addon (Poker Cards)_30
+  - first:
+      213: 5327672493754032505
+    second: fiches addon (Poker Cards)_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02bfc2f5d9b63f0800000000000000
+      internalID: -906457867882913583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f26828d179c6390800000000000000
+      internalID: -7823712299649716401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d80d01643ab670800000000000000
+      internalID: 8555208033578832511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28270ba6822bdf460800000000000000
+      internalID: 7277168459558974082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9898ba4360bcf30800000000000000
+      internalID: 4596774667947706853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df482441b6bc1050800000000000000
+      internalID: 5772689694851092441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb82a5c4eddc8e0800000000000000
+      internalID: -1671435467173085564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a50961e26371ab0800000000000000
+      internalID: -5037498086615655884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea67d297b5cb171c0800000000000000
+      internalID: -4507614650960087378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e0c8be329ca390800000000000000
+      internalID: -7805703256054636000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df169883707d42b0800000000000000
+      internalID: -5598695120236568619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33715a3bef975a0a0800000000000000
+      internalID: -6870951521641228493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6af5e71242a0030800000000000000
+      internalID: 3461618989860366064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5a252816a00bf0800000000000000
+      internalID: -360105347556680436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f24a5c7f9034e7c0800000000000000
+      internalID: -4043053103927639305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e9c10a31617ff00800000000000000
+      internalID: 1150412503362870943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98c7a9e0683f08b0800000000000000
+      internalID: -5183862657192048485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b9c2a8c762ea850800000000000000
+      internalID: 6390087237621291895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35adaaf568c6c25e0800000000000000
+      internalID: -1933050815662335405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203e06c79718f070800000000000000
+      internalID: 8140282267102490668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3763d465049995320800000000000000
+      internalID: 2547235565859583603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a031d7e6433ea0cc0800000000000000
+      internalID: -3743930325873650934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd98a2d26047da0800000000000000
+      internalID: -5948122416792610016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 47
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3fa728eb47973d0800000000000000
+      internalID: -3208404897943063581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a177fc5b5a604c8a0800000000000000
+      internalID: -6285891871112726758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1bd2195d9a1c20800000000000000
+      internalID: 3178025492957306006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72d0afd4e33df00800000000000000
+      internalID: 1140323635283437475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7713a422367c78d0800000000000000
+      internalID: -2847270906669885574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22b702dbccbec50800000000000000
+      internalID: 6695670383682200258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730960e3658a11240800000000000000
+      internalID: 4760771369468596279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d884cb21168c70800000000000000
+      internalID: 8972878187260859641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiches addon (Poker Cards)_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97124d5e7e1bfe940800000000000000
+      internalID: 5327672493754032505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fiches addon (Poker Cards)_0: -906457867882913583
+      fiches addon (Poker Cards)_1: -7823712299649716401
+      fiches addon (Poker Cards)_10: -5598695120236568619
+      fiches addon (Poker Cards)_11: -6870951521641228493
+      fiches addon (Poker Cards)_12: 3461618989860366064
+      fiches addon (Poker Cards)_13: -360105347556680436
+      fiches addon (Poker Cards)_14: -4043053103927639305
+      fiches addon (Poker Cards)_15: 1150412503362870943
+      fiches addon (Poker Cards)_16: -5183862657192048485
+      fiches addon (Poker Cards)_17: 6390087237621291895
+      fiches addon (Poker Cards)_18: -1933050815662335405
+      fiches addon (Poker Cards)_19: 8140282267102490668
+      fiches addon (Poker Cards)_2: 8555208033578832511
+      fiches addon (Poker Cards)_20: 2547235565859583603
+      fiches addon (Poker Cards)_21: -3743930325873650934
+      fiches addon (Poker Cards)_22: -5948122416792610016
+      fiches addon (Poker Cards)_23: -3208404897943063581
+      fiches addon (Poker Cards)_24: -6285891871112726758
+      fiches addon (Poker Cards)_25: 3178025492957306006
+      fiches addon (Poker Cards)_26: 1140323635283437475
+      fiches addon (Poker Cards)_27: -2847270906669885574
+      fiches addon (Poker Cards)_28: 6695670383682200258
+      fiches addon (Poker Cards)_29: 4760771369468596279
+      fiches addon (Poker Cards)_3: 7277168459558974082
+      fiches addon (Poker Cards)_30: 8972878187260859641
+      fiches addon (Poker Cards)_31: 5327672493754032505
+      fiches addon (Poker Cards)_4: 4596774667947706853
+      fiches addon (Poker Cards)_5: 5772689694851092441
+      fiches addon (Poker Cards)_6: -1671435467173085564
+      fiches addon (Poker Cards)_7: -5037498086615655884
+      fiches addon (Poker Cards)_8: -4507614650960087378
+      fiches addon (Poker Cards)_9: -7805703256054636000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

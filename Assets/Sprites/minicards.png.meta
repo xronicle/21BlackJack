@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: cccf6147bd664234fba97d5e1d38ed32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6681103568579279534
+    second: minicards_0
+  - first:
+      213: -8853557989537368409
+    second: minicards_1
+  - first:
+      213: -6205830872487082666
+    second: minicards_2
+  - first:
+      213: 2428963138563798682
+    second: minicards_3
+  - first:
+      213: -1926621186790090
+    second: minicards_4
+  - first:
+      213: 1119849694529675007
+    second: minicards_5
+  - first:
+      213: -185354735489682619
+    second: minicards_6
+  - first:
+      213: 9067465700973803800
+    second: minicards_7
+  - first:
+      213: 7312606466479796221
+    second: minicards_8
+  - first:
+      213: -6107636180606819245
+    second: minicards_9
+  - first:
+      213: -616342160763601656
+    second: minicards_10
+  - first:
+      213: -5858477362479919300
+    second: minicards_11
+  - first:
+      213: 7505567445495240176
+    second: minicards_12
+  - first:
+      213: 8111676755630315551
+    second: minicards_13
+  - first:
+      213: 461818573834084621
+    second: minicards_14
+  - first:
+      213: 5621535582028248929
+    second: minicards_15
+  - first:
+      213: 7119318807955022231
+    second: minicards_16
+  - first:
+      213: 4100043333710134924
+    second: minicards_17
+  - first:
+      213: -6189474687725564039
+    second: minicards_18
+  - first:
+      213: -6205291908629069894
+    second: minicards_19
+  - first:
+      213: 4354699330799244863
+    second: minicards_20
+  - first:
+      213: 1760216987012357944
+    second: minicards_21
+  - first:
+      213: 2115679655135894424
+    second: minicards_22
+  - first:
+      213: 508931961948914660
+    second: minicards_23
+  - first:
+      213: 7463310936664127118
+    second: minicards_24
+  - first:
+      213: -1496390518325819811
+    second: minicards_25
+  - first:
+      213: 4997846178146675879
+    second: minicards_26
+  - first:
+      213: 2989741955755083451
+    second: minicards_27
+  - first:
+      213: 2732254786004796127
+    second: minicards_28
+  - first:
+      213: 7532352183640789511
+    second: minicards_29
+  - first:
+      213: -4945370909100225832
+    second: minicards_30
+  - first:
+      213: 5362559708268270251
+    second: minicards_31
+  - first:
+      213: -6368219194911432015
+    second: minicards_32
+  - first:
+      213: -3402481458009484638
+    second: minicards_33
+  - first:
+      213: 973287203577098074
+    second: minicards_34
+  - first:
+      213: 4362889322880618558
+    second: minicards_35
+  - first:
+      213: -2632131003090554061
+    second: minicards_36
+  - first:
+      213: -7706076361392680837
+    second: minicards_37
+  - first:
+      213: -5771655567128729136
+    second: minicards_38
+  - first:
+      213: -4563401388257179418
+    second: minicards_39
+  - first:
+      213: 2134644770636572529
+    second: minicards_40
+  - first:
+      213: -4883740230959658008
+    second: minicards_41
+  - first:
+      213: -7076150606111825131
+    second: minicards_42
+  - first:
+      213: -7195134623441003572
+    second: minicards_43
+  - first:
+      213: 371196629434003365
+    second: minicards_44
+  - first:
+      213: 8897617667961058982
+    second: minicards_45
+  - first:
+      213: 7573955076174194056
+    second: minicards_46
+  - first:
+      213: 7378415821046292806
+    second: minicards_47
+  - first:
+      213: -3985310539620404874
+    second: minicards_48
+  - first:
+      213: -3082000185220586920
+    second: minicards_49
+  - first:
+      213: -818269833464275644
+    second: minicards_50
+  - first:
+      213: 6646576738643915527
+    second: minicards_51
+  - first:
+      213: -1696772799763606335
+    second: minicards_52
+  - first:
+      213: 5181279347061060099
+    second: minicards_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minicards_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa33c03c4c08bc50800000000000000
+      internalID: 6681103568579279534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6bd4baae7d12580800000000000000
+      internalID: -8853557989537368409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655414d83b570e9a0800000000000000
+      internalID: -6205830872487082666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96fc96fa1965b120800000000000000
+      internalID: 2428963138563798682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d6b8c8fb729fff0800000000000000
+      internalID: -1926621186790090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe554c2d518a8f00800000000000000
+      internalID: 1119849694529675007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54373b1a9dc7d6df0800000000000000
+      internalID: -185354735489682619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f497730c16dd70800000000000000
+      internalID: 9067465700973803800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa0c066d89b7560800000000000000
+      internalID: 7312606466479796221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3546b9dd0415d3ba0800000000000000
+      internalID: -6107636180606819245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db69ff1105277f0800000000000000
+      internalID: -616342160763601656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f87bcd0e182bea0800000000000000
+      internalID: -5858477362479919300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5da7253d1292860800000000000000
+      internalID: 7505567445495240176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1853202807729070800000000000000
+      internalID: 8111676755630315551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01ee0ccb85b86600800000000000000
+      internalID: 461818573834084621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1673303e3d4b30e40800000000000000
+      internalID: 5621535582028248929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791aaee6cb6ecc260800000000000000
+      internalID: 7119318807955022231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e308560b746e830800000000000000
+      internalID: 4100043333710134924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f88d390919a1aa0800000000000000
+      internalID: -6189474687725564039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abffe8ad2ef52e9a0800000000000000
+      internalID: -6205291908629069894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f369beb18fffe6c30800000000000000
+      internalID: 4354699330799244863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fda7e060c8d6810800000000000000
+      internalID: 1760216987012357944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b55eedf676c5d10800000000000000
+      internalID: 2115679655135894424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3cec64ce6101700800000000000000
+      internalID: 508931961948914660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86372c21c1039760800000000000000
+      internalID: 7463310936664127118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d564de570c0cb3be0800000000000000
+      internalID: -1496390518325819811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ace97a8e9aeb5540800000000000000
+      internalID: 4997846178146675879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb60ddae772bd7920800000000000000
+      internalID: 2989741955755083451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24da3704beae520800000000000000
+      internalID: 2732254786004796127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021c05276a488860800000000000000
+      internalID: 7532352183640789511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dac7802c538e5bb0800000000000000
+      internalID: -4945370909100225832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2172284a3ab6a40800000000000000
+      internalID: 5362559708268270251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2ea7be16a8f97a0800000000000000
+      internalID: -6368219194911432015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2dd7c1425f7c0d0800000000000000
+      internalID: -3402481458009484638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f65a11e8fc18d00800000000000000
+      internalID: 973287203577098074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30d4ac39b81c8c30800000000000000
+      internalID: 4362889322880618558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333be7e5ccac87bd0800000000000000
+      internalID: -2632131003090554061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70972bb0648e0590800000000000000
+      internalID: -7706076361392680837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e26b57d5f6efa0800000000000000
+      internalID: -5771655567128729136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e808658d9a8ba0c0800000000000000
+      internalID: -4563401388257179418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177207beb18cf9d10800000000000000
+      internalID: 2134644770636572529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb8d569228793cb0800000000000000
+      internalID: -4883740230959658008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5132a89c3867ccd90800000000000000
+      internalID: -7076150606111825131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb5fa27e2fb52c90800000000000000
+      internalID: -7195134623441003572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6c372e51c62500800000000000000
+      internalID: 371196629434003365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6fe0e9020ba7b70800000000000000
+      internalID: 8897617667961058982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885212463081c1960800000000000000
+      internalID: 7573955076174194056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412692c816656660800000000000000
+      internalID: 7378415821046292806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6713e46ed2551b8c0800000000000000
+      internalID: -3985310539620404874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8522d3229298a35d0800000000000000
+      internalID: -3082000185220586920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d91fdfbebe4a4f0800000000000000
+      internalID: -818269833464275644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 34
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703be3724526d3c50800000000000000
+      internalID: 6646576738643915527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c49b85e02ad378e0800000000000000
+      internalID: -1696772799763606335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minicards_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30274a35d1a97e740800000000000000
+      internalID: 5181279347061060099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      minicards_0: 6681103568579279534
+      minicards_1: -8853557989537368409
+      minicards_10: -616342160763601656
+      minicards_11: -5858477362479919300
+      minicards_12: 7505567445495240176
+      minicards_13: 8111676755630315551
+      minicards_14: 461818573834084621
+      minicards_15: 5621535582028248929
+      minicards_16: 7119318807955022231
+      minicards_17: 4100043333710134924
+      minicards_18: -6189474687725564039
+      minicards_19: -6205291908629069894
+      minicards_2: -6205830872487082666
+      minicards_20: 4354699330799244863
+      minicards_21: 1760216987012357944
+      minicards_22: 2115679655135894424
+      minicards_23: 508931961948914660
+      minicards_24: 7463310936664127118
+      minicards_25: -1496390518325819811
+      minicards_26: 4997846178146675879
+      minicards_27: 2989741955755083451
+      minicards_28: 2732254786004796127
+      minicards_29: 7532352183640789511
+      minicards_3: 2428963138563798682
+      minicards_30: -4945370909100225832
+      minicards_31: 5362559708268270251
+      minicards_32: -6368219194911432015
+      minicards_33: -3402481458009484638
+      minicards_34: 973287203577098074
+      minicards_35: 4362889322880618558
+      minicards_36: -2632131003090554061
+      minicards_37: -7706076361392680837
+      minicards_38: -5771655567128729136
+      minicards_39: -4563401388257179418
+      minicards_4: -1926621186790090
+      minicards_40: 2134644770636572529
+      minicards_41: -4883740230959658008
+      minicards_42: -7076150606111825131
+      minicards_43: -7195134623441003572
+      minicards_44: 371196629434003365
+      minicards_45: 8897617667961058982
+      minicards_46: 7573955076174194056
+      minicards_47: 7378415821046292806
+      minicards_48: -3985310539620404874
+      minicards_49: -3082000185220586920
+      minicards_5: 1119849694529675007
+      minicards_50: -818269833464275644
+      minicards_51: 6646576738643915527
+      minicards_52: -1696772799763606335
+      minicards_53: 5181279347061060099
+      minicards_6: -185354735489682619
+      minicards_7: 9067465700973803800
+      minicards_8: 7312606466479796221
+      minicards_9: -6107636180606819245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

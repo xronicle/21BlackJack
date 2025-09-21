@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maxim Korotkov\\21cardgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\StreakTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StreakTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\TopStreakMessageUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TopStreakMessageUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\PlayerProfileManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerProfileManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\StreakManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StreakManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\LeaderboardUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LeaderboardUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\TopStreakPopupUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TopStreakPopupUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\InputField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InputField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputField.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\InputField.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputField.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\InputField.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:30:14.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StreakTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\StreakTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StreakTracker.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\StreakTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StreakTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:13:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopStreakMessageUI.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\TopStreakMessageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopStreakMessageUI.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\TopStreakMessageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopStreakMessageUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:55:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TopStreakPopupUI.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\TopStreakPopupUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopStreakPopupUI.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\TopStreakPopupUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopStreakPopupUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:18:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaderboardUI.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\LeaderboardUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LeaderboardUI.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\LeaderboardUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LeaderboardUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:19:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StreakManager.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\StreakManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StreakManager.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\StreakManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StreakManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:41:06.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:20:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerProfileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\PlayerProfileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerProfileManager.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\PlayerProfileManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerProfileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:39:41.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Maxim Korotkov\\21cardgame\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:10:30.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
